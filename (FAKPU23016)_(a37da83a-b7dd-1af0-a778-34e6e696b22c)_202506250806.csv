@@ -1,0 +1,8 @@
+﻿Time(GMT),Topic,CMD,Frame ID,확장 Frame ID,Data,DIAG_DATA,MON_DATA,WIFI_DATA,Raw Data
+01:49:12,lime/devices,ack,0x00,,AA0AF0000A0402AC35BB,,,,"{""did"":""a37da83a-b7dd-1af0-a778-34e6e696b22c"",""mid"":1750816152793,""cmd"":""ack"",""type"":1,""data"":""AA0AF0000A0402AC35BB""}"
+01:50:40,lime/devices,ack,0x00,,AA0AF0000A0402C322BB,,,,"{""did"":""a37da83a-b7dd-1af0-a778-34e6e696b22c"",""mid"":1750816240788,""cmd"":""ack"",""type"":1,""data"":""AA0AF0000A0402C322BB""}"
+01:50:41,lime/devices,ack,0x00,,AA08F00072044DBB,,,,"{""did"":""a37da83a-b7dd-1af0-a778-34e6e696b22c"",""mid"":1750816241304,""cmd"":""ack"",""type"":1,""data"":""AA08F00072044DBB""}"
+01:50:41,lime/devices,ack,0x00,,AA0AF0000A0402C52CBB,,,,"{""did"":""a37da83a-b7dd-1af0-a778-34e6e696b22c"",""mid"":1750816241612,""cmd"":""ack"",""type"":1,""data"":""AA0AF0000A0402C52CBB""}"
+01:50:42,lime/devices,ack,0x00,,AA08F000E204DDBB,,,,"{""did"":""a37da83a-b7dd-1af0-a778-34e6e696b22c"",""mid"":1750816242139,""cmd"":""ack"",""type"":1,""data"":""AA08F000E204DDBB""}"
+01:50:42,lime/devices,ack,0x00,,AA0AF0000A0402C72EBB,,,,"{""did"":""a37da83a-b7dd-1af0-a778-34e6e696b22c"",""mid"":1750816242663,""cmd"":""ack"",""type"":1,""data"":""AA0AF0000A0402C72EBB""}"
+01:50:43,lime/devices,ack,0x00,,AA0AF0000A0402C829BB,,,,"{""did"":""a37da83a-b7dd-1af0-a778-34e6e696b22c"",""mid"":1750816243195,""cmd"":""ack"",""type"":1,""data"":""AA0AF0000A0402C829BB""}"
